@@ -1,0 +1,47 @@
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.exe
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.deps.json
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.runtimeconfig.json
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.runtimeconfig.dev.json
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.dll
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\ref\Producer.dll
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\Producer.pdb
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\cuibu\source\repos\Producer\Producer\bin\Debug\net5.0-windows\RabbitMQ.Client.dll
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.AssemblyReference.cache
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.Form1.resources
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.GenerateResource.cache
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.AssemblyInfoInputs.cache
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.AssemblyInfo.cs
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.CoreCompileInputs.cache
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.dll
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\ref\Producer.dll
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.pdb
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.genruntimeconfig.cache
+C:\Users\cuibu\source\repos\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.CopyComplete
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.AssemblyReference.cache
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.Form1.resources
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.GenerateResource.cache
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.AssemblyInfoInputs.cache
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.AssemblyInfo.cs
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.CoreCompileInputs.cache
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\ref\Producer.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.pdb
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.exe
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.deps.json
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.runtimeconfig.json
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.runtimeconfig.dev.json
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\ref\Producer.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Producer.pdb
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\CsvHelper.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\LinqToExcel.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Remotion.Data.Linq.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Remotion.Interfaces.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Remotion.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\RabbitMQ.Client.dll
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.csproj.CopyComplete
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\obj\Debug\net5.0-windows\Producer.genruntimeconfig.cache
+C:\Users\cuibu\Desktop\Licenta cod\Producer\Producer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
