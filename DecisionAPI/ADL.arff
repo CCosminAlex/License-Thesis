@@ -1,0 +1,50 @@
+@relation recommendation
+
+@attribute depression-severity		{ 'none', 'mild', 'moderate', 'moderately-severe', 'severe'}
+@attribute sleep 					{ '0-2', '3-5', '6-8', '9+'}
+@attribute medication				{ 'no', 'yes'}
+@attribute recommendation 			{  'S1', 'S2', 'S3', 'A1', 'A2', 'A3', 'A4','none'}
+
+@data
+'none', '0-2', 'no', 'none'
+'none', '0-2', 'yes', 'S1'
+'none', '3-5', 'no', 'A1'
+'none', '3-5', 'yes', 'S1'
+'none', '6-8', 'no', 'S3'
+'none', '6-8', 'yes', 'none'
+'none', '9+', 'no', 'S3'
+'none', '9+', 'yes', 'none'
+'mild', '0-2', 'no', 'A1'
+'mild', '0-2', 'yes', 'S1'
+'mild', '3-5', 'no', 'A1'
+'mild', '3-5', 'yes', 'S1'
+'mild', '6-8', 'no', 'S3'
+'mild', '6-8', 'yes', 'none'
+'mild', '9+', 'no', 'S3'
+'mild', '9+', 'yes', 'none'
+'moderate', '0-2', 'no', 'A1'
+'moderate', '0-2', 'yes', 'S1'
+'moderate', '3-5', 'no', 'A1'
+'moderate', '3-5', 'yes', 'S1'
+'moderate', '6-8', 'no', 'S3'
+'moderate', '6-8', 'yes', 'none'
+'moderate', '9+', 'no', 'S3'
+'moderate', '9+', 'yes', 'none'
+'moderately-severe', '0-2', 'no', 'A3'
+'moderately-severe', '0-2', 'yes', 'A2'
+'moderately-severe', '3-5', 'no', 'A3'
+'moderately-severe', '3-5', 'yes', 'A2'
+'moderately-severe', '6-8', 'no', 'A4'
+'moderately-severe', '6-8', 'yes', 'S2'
+'moderately-severe', '9+', 'no', 'A4'
+'moderately-severe', '9+', 'yes', 'S2'
+'severe', '0-2', 'no', 'A3'
+'severe', '0-2', 'yes', 'A2'
+'severe', '3-5', 'no', 'A3'
+'severe', '3-5', 'yes', 'A2'
+'severe', '6-8', 'no', 'A4'
+'severe', '6-8', 'yes', 'S2'
+'severe', '9+', 'no', 'A4'
+'severe', '9+', 'yes', 'S2'
+
+
